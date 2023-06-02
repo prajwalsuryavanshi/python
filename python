@@ -1,2 +1,5 @@
 def __init__(self):
 self.data=none
+data.ref=node
+def __dequeue():
+self.pop()
